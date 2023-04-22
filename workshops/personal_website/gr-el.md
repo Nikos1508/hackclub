@@ -154,9 +154,9 @@ Prophet Orpheus, [η μασκότ μας](https://hackclub.com/workshops/orpheus
 
 Παρόλο που η σελίδα μας έχει λίγο κείμενο και είναι στο _internet_, δεν τελειώσαμε. Η σελίδα μας δουλεύει, αλλά θέλει λίγο δουλίτσα στην εμφάνηση. Η CSS θα μας βοηθήση να αλλάξουμε την εμφάνηση στις ανάγκες σου.
 
-## Part III: The CSS File
+## Μέρος III: Το CSS αρχείο
 
-So what is CSS? CSS, also known as Cascading Style Sheets, is a language used for styling the tags (or "elements") on a web page.
+Οπότε τι ειναι η CSS? H CSS, επίσης γνωστή ως Cascading Style Sheets, is a language used for styling the tags (or "elements") on a web page.
 
 While HTML oversees the content and the way it's structured, CSS is how you'll specify how you'd like your content to look—with it you can set things like colors, spacing, and more.
 
